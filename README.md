@@ -1,0 +1,2 @@
+# kantam
+Magnetar variants.
